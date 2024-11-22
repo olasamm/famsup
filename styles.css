@@ -1,0 +1,150 @@
+.logo{
+    width: 70%;
+}
+
+.headerbackground{
+    background-color: #f8f9ff;
+}
+
+.Sign{
+    background-color: #df5c0c;
+    color: white;
+    border-radius: 40px;
+    border-width: 5px;
+    border-left: 20px solid #df5c0c;
+    border-right: 20px solid #df5c0c;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.EDOZZIER{
+    background-color: #d0d8fc;
+    border-radius: 5px;
+    width: 220px;
+    margin-top: 160px;
+}
+
+.Smart{
+    color: #1b1642;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+
+.Management{
+    font-size: 50px;
+    font-weight: bolder;
+    color: #1b1642;
+}
+
+.Software{
+    font-size: 18px;
+}
+
+
+.Request :hover{
+    background-color: #babfdc;
+    color: white;
+}
+
+
+.Demo{
+   background-color: #1b1642;
+   color: white;
+}
+
+
+.Demo:hover{
+   background-color: rgb(217, 217, 23);
+}
+
+
+.heade{
+    width: 9000vh;
+}
+
+
+.was{
+    color: #0e0a47;
+    font-weight: bold;
+}
+
+.sky{
+    margin-top: 120px;
+}
+
+.story{
+    font-size: 50px;
+}
+
+.fams{
+    color: #75819d;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.best{
+    color: #002444;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+
+.platform{
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #75819d;
+}
+
+.Register{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    border: none;
+    background-color: #df5c0c;
+    border-radius: 10px;
+}
+
+.see{
+    text-decoration: none;
+    color: black;
+}
+
+.available{
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.in{
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+}
+
+.Username{
+    
+    
+}
+
+.button{
+    background-color: #df5c0c;
+    color: white;
+    border: none;
+    border-radius: 80px;
+    padding: 10px 60px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.all{
+    border: solid 1px ;
+    border-radius: 30px;
+    color: #df5c0c;
+    padding-bottom: 40px;
+}
+
